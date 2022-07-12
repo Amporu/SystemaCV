@@ -9,6 +9,10 @@ This library is divided into the following modules
 ->Camera:  used to get camera frames(works with any webcam)
 
 ->IP: contains al image processing operations
+
 ->NN: contains all machine learning operations
+
 ->Show: contains all GUI methods
+
 ->Draw: contains all matrix drawing operations
+
